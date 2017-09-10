@@ -15,7 +15,7 @@ kubernetes集群安装部署文档
 
 [5-Flannel安装和配置](5-Flannel安装和配置.md)
 
-[6-部署 kubectl 命令行工具](6-部署 kubectl 命令行工具.md)
+[6-部署kubectl命令行工具](6-部署kubectl命令行工具.md)
 
 [7-创建kubeconfig文件](7-创建kubeconfig文件.md)
 
@@ -27,7 +27,7 @@ kubernetes集群安装部署文档
 
 [11-安装和部署dashboard](11-安装和部署dashboard.md)
 
-[12-安装和配置 kubedns 插件](12-安装和配置 kubedns 插件.md)
+[12-安装和配置kubedns插件](12-安装和配置kubedns插件.md)
 
 [13-安装和配置Heapster](13-安装和配置Heapster.md)
 
