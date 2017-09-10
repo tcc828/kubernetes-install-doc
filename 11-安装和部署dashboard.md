@@ -3,7 +3,7 @@
 ### yaml文件
 官方的镜像需要翻墙才能下载，这里选用阿里云的镜像即可。
 
-已经修改好的 yaml 文件见：[dashboard]()
+已经修改好的 yaml 文件见：[dashboard](kube-yaml/dashboard)
 
 - 这里dashboard的版本1.6.3为中文版，1.6.0为英文版，根据需求选择。
 

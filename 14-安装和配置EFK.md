@@ -27,7 +27,7 @@
 
 EFK服务也需要一个efk-rbac.yaml文件，配置serviceaccount为efk。
 
-已经修改好的 yaml 文件见：[efk]()
+已经修改好的 yaml 文件见：[efk](kube-yaml/efk)
 
 
 ### 给 Node 设置标签

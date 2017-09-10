@@ -16,7 +16,7 @@ cd kubernetes/cluster/addons
 
 官方的镜像需要翻墙才能下载，这里选用阿里云的镜像即可。
 
-已经修改好的 yaml 文件见：[dns]()
+已经修改好的 yaml 文件见：[dns](kube-yaml/dns)
 
 ### 系统预定义的 RoleBinding
 
