@@ -74,6 +74,7 @@ kubectl logs kibana-logging-1432287342-0gdng -n kube-system -f
 ```
 
 效果如下：
+
 ![](assets/markdown-img-paste-20170910180148427.png)
 
 等待一会，等输出很多日志时，就可以访问了
@@ -93,4 +94,5 @@ kubectl cluster-info获取地址
 
 
 如下：
+
 ![](assets/markdown-img-paste-20170910190648765.png)

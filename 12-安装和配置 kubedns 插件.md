@@ -29,6 +29,7 @@ kubedns-controller.yaml 中定义的 Pods 时使用了 kubedns-sa.yaml 文件定
 ### 需要修改的地方
 
 kubedns-svc.yaml中有一行：
+
 ![](assets/markdown-img-paste-20170907154418781.png)
 
 这个地方的clusterIP需要和 kubelet 的 --cluster-dns 参数值一致；
@@ -41,6 +42,7 @@ kubectl create -f .
 ```
 
 效果如下：
+
 ![](assets/markdown-img-paste-20170907154744133.png)
 
 - 如果想撤销创建不需要一个一个删除，执行

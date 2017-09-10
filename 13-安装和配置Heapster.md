@@ -52,6 +52,7 @@ influxdb 官方建议使用命令行或 HTTP API 接口来查询数据库，从 
 #### 配置 monitoring-influxdb Service
 
 ![](assets/markdown-img-paste-20170908102632903.png)
+
 - 定义端口类型为 NodePort，额外增加了 admin 端口映射，用于后续浏览器访问 influxdb 的 admin UI 界面
 
 

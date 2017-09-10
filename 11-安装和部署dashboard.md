@@ -20,6 +20,7 @@ kubectl create -f .
 ```
 
 效果如下：
+
 ![](assets/markdown-img-paste-20170907163753650.png)
 
 
@@ -28,6 +29,7 @@ kubectl create -f .
 ```
 kubectl get services kubernetes-dashboard -n kube-system
 ```
+
 ![](assets/markdown-img-paste-20170907163923670.png)
 
 

@@ -128,6 +128,7 @@ systemctl status kube-apiserver
 
 
 效果如下：
+
 ![](assets/markdown-img-paste-20170906151426766.png)
 
 
@@ -182,6 +183,7 @@ systemctl status kube-controller-manager
 ```
 
 效果如下：
+
 ![](assets/markdown-img-paste-20170906152548399.png)
 
 - 这里有个警告 注意
@@ -254,5 +256,7 @@ kubectl get cs
 
 
 正确示意如下:
+
 ![](assets/markdown-img-paste-20170907100128149.png)
+
 ![](assets/markdown-img-paste-20170907100158237.png)

@@ -29,6 +29,7 @@ cfssl 来生成 Certificate Authority (CA) 证书和秘钥文件.
 
 像下面这样就ok了：
 
+
 ![](media/e0469952147c3c14d027d9639bc81ca0.png)
 
 ## 创建CA(Certificate Authority)
@@ -44,7 +45,9 @@ cfssl 来生成 Certificate Authority (CA) 证书和秘钥文件.
 
 效果如下：
 
+
 ![](media/9e64c8d258724ef85ba7e52f8d9198ba.png)
+
 
 ca-config.json 如下:
 
@@ -99,6 +102,7 @@ cfssl gencert -initca ca-csr.json | cfssljson -bare ca
 ```
 
 效果如下：
+
 
 ![](assets/markdown-img-paste-20170905135410901.png)
 

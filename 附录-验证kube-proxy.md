@@ -16,6 +16,7 @@ kubectl describe svc example-service
 
 
 效果如下：
+
 ![](assets/markdown-img-paste-20170907153012996.png)
 
 

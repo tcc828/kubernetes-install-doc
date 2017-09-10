@@ -106,6 +106,7 @@ systemctl status kubelet
 
 
 效果如下:
+
 ![](assets/markdown-img-paste-2017090711195039.png)
 
 
@@ -123,6 +124,7 @@ kubectl get csr
 kubectl get nodes
 ```
 效果如下：
+
 ![](assets/markdown-img-paste-20170907133425111.png)
 
 

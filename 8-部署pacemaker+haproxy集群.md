@@ -45,6 +45,7 @@ pcs cluster auth master1 master2 -u hacluster -p 828 --force
 ```
 
 效果如下:
+
 ![](assets/markdown-img-paste-20170907090148408.png)
 
 
@@ -217,6 +218,7 @@ pcs constraint order VIP then haproxy
 
 
 最后是这样的：
+
 ![](assets/markdown-img-paste-20170907092728111.png)
 
 
