@@ -152,4 +152,4 @@ etcdctl \
 
 #### 问题
 
-- etcd集群如果采用/etc/etcd/etcd.conf的配置，启动时会出现错误提示说/bin/bash不存在。原因是找不到二进制文件，我们可以强行在serice指定为/usr/bin/etcd
+- etcd集群如果采用/etc/etcd/etcd.conf的配置，启动时会出现错误提示说/bin/bash不存在。原因是找不到二进制文件，我们可以强行在service指定为/usr/bin/etcd
