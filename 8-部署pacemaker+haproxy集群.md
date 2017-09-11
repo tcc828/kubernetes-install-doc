@@ -181,6 +181,13 @@ balance source
 stats uri /stats
 stats auth admin:828
 
+listen K8s
+bind 192.168.80.88:6443
+balance leastconn
+mode http
+server master1 192.168.80.10:6443 check inter 2000 fall 3
+server master2 192.168.80.11:6443 check inter 2000 fall 3
+
 listen Kubernetes-Cluster
 bind 192.168.80.88:6443
 balance leastconn
